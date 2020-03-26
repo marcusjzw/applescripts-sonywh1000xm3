@@ -14,3 +14,4 @@ Two apple scripts to automate the connecting and disconnecting of the headphones
 
 ### Future work
 - Right now it still relies on the user remembering to run the script. Automate the disconnect script to run in background and listen to an event where the headphones go out of range, then run the disconnect function.
+- Provide an Apple Shortcut to do the same disconnection automatically on iPhone?
