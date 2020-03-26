@@ -10,7 +10,7 @@ Intentionally disconnecting is hard... if you use these headphones at your compu
 
 ## The scripts
 
-Two apple scripts to automate the connecting and disconnecting of the headphones to a Mac computer. Run the disconnect script when you leave your computer.
+Two apple scripts to automate the connecting and disconnecting of the headphones to a Mac computer. Run the disconnect script when you leave your computer. Once disconnected, it also pauses Spotify so your music doesn't start blasting out at your work office.
 
 ### Future work
 - Right now it still relies on the user remembering to run the script. Automate the disconnect script to run in background and listen to an event where the headphones go out of range, then run the disconnect function.
